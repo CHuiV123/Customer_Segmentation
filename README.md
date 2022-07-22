@@ -29,6 +29,9 @@ Additional modules needed: Tensorflow, Sklearn, matplotlib, missingno
 ## Training Accuracy 
 ![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Training%20Accuracy.png)
 
+## Tensorboard Display 
+![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/0109a1250eefaf6c3cdaa62025f01b93a7ac215e/static/Tensorboard.png)
+
 ## Confusion Matrix 
 ![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Confusion%20Matrix.png)
 

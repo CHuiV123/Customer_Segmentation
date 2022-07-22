@@ -8,12 +8,13 @@ Created on Fri Jul 22 10:13:52 2022
 
 #%% 
 
-import matplotlib.pyplot as plt 
-import seaborn as sns 
-import scipy.stats as ss
-import numpy as np
-from tensorflow.keras import Sequential, Input
 from tensorflow.keras.layers import Dense,Dropout,BatchNormalization
+from tensorflow.keras import Sequential, Input
+import matplotlib.pyplot as plt 
+import scipy.stats as ss
+import seaborn as sns 
+import numpy as np
+
 #%% 
 class GRAPH(): 
     def plot_cat_graph(self,cat,df):

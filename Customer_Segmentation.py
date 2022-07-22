@@ -19,7 +19,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import ConfusionMatrixDisplay
 from tensorflow.keras.callbacks import TensorBoard
 from sklearn.preprocessing import LabelEncoder
-from tensorflow.keras import Sequential, Input 
 from tensorflow.keras.utils import plot_model
 from sklearn.impute import KNNImputer
 
@@ -164,7 +163,6 @@ model = md.simple_dl_model(input_shape,nb_class)
 
 
 #%% Model Compilation 
-
 
 model.compile(optimizer='adam',
               loss='categorical_crossentropy',

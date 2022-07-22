@@ -20,26 +20,24 @@ Software required: Spyder, Python(preferably the latest version)
 Additional modules needed: Tensorflow, Sklearn, matplotlib, missingno
 
 # Architecture of the model 
-![alt text]([static/Tensor_flow_model.png](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Tensor_flow_model.png))
+![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Tensor_flow_model.png)
 
 # Outcome 
 ## Training Loss 
 ![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Training%20Loss.png)
 
 ## Training Accuracy 
-![alt text]([static/Training Accuracy.png](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Training%20Accuracy.png))
+![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Training%20Accuracy.png)
 
 ## Confusion Matrix 
-![alt text]([static/Confusion Matrix.png](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Confusion%20Matrix.png))
+![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Confusion%20Matrix.png)
 
 ## Classification report 
-![alt text]([static/Classification report.png](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Classification%20report.png))
+![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Classification%20report.png)
 
 
 
 ## Credits
-This datasets is provided by [Ankit Kurmi] https://github.com/Ankit152/IMDB-sentiment-analysis 
+This datasets is provided by [Kaggle] [https://www.kaggle.com/datasets/kunalgupta2616/hackerearth-customer-segmentation-hackathon] 
 
-
-If you find this model analysis is useful, 
-![BuyWarrenACoffee](https://img.shields.io/badge/Buy%20Warren%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-warren-a-coffee&logoColor=black)
+Special thanks for Dr. Nian Long Loo guidance throughout the whole deep learning course. 

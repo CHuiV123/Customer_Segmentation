@@ -32,7 +32,7 @@ Additional modules needed: Tensorflow, Sklearn, matplotlib, missingno
 ## Confusion Matrix 
 ![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Confusion%20Matrix.png)
 
-## Classification report 
+## Classification Report 
 ![alt text](https://github.com/CHuiV123/Customer_segmentation/blob/5bbb945eb375638e9e2c26250e8ffcad2cef55eb/static/Classification%20report.png)
 
 

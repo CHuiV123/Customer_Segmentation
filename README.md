@@ -43,4 +43,3 @@ Additional modules needed: Tensorflow, Sklearn, matplotlib, missingno
 ## Credits
 This datasets is provided by [Kaggle] [https://www.kaggle.com/datasets/kunalgupta2616/hackerearth-customer-segmentation-hackathon] 
 
-Special thanks for Dr. Nien Loong Loo guidance throughout the whole deep learning course. 
